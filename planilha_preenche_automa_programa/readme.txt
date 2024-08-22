@@ -3,3 +3,6 @@ projeto
 
 #onde os pacotes e variaveis serão exclusivas desse projeto
 sem comprometer novos projetos
+
+#instalar mouseInfo() dentro do cmd
+
